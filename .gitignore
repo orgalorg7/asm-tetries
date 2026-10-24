@@ -1,0 +1,6 @@
+/tetris
+/tetris.o
+/.tetris_highscore
+__pycache__/
+*.pyc
+/.xray/
